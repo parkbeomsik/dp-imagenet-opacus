@@ -1,5 +1,5 @@
 # DP Imagenet training
-It is Opacus fersion of https://github.com/google-research/dp-imagenet. It can import JAX model into Pytorch model and train.
+It is Opacus version of https://github.com/google-research/dp-imagenet. It can import JAX model into Pytorch model and train.
 
 ## Setup
 
