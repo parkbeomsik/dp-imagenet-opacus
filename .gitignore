@@ -1,3 +1,6 @@
 .vscode
 imagenet/imagenet-data
 models/
+*.pth.tar
+**/__pycache__/
+pretrained_models/
